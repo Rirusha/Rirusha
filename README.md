@@ -6,3 +6,4 @@ I know languages (in descending order):
 - Vala
 - Python
 - C#
+- С
